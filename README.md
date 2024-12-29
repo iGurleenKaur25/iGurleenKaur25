@@ -1,14 +1,15 @@
-Hi I'm Gurleen Kaur 
+Hi ✨I'm Gurleen Kaur ✨
 
-A passionate learner and student in first year.
+🌱A passionate learner and student in first year.
 
-I'm currently learning JavaScript.
 
-I'm looking to collaborate on Open source contributions.
+🔭I'm currently learning JavaScript.
 
-U can reach me on Linkedin - www.linkedin.com/in/gurleen-kaur-a66b49324
+👯I'm looking to collaborate on Open source contributions.
 
-2025 Goals- Learning FullStack development and starting DSA in Java.
+📫U can reach me on Linkedin - www.linkedin.com/in/gurleen-kaur-a66b49324
+
+⚡2025 Goals- Learning FullStack development and starting DSA in Java.
 
 
 <!--
