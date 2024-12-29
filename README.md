@@ -3,8 +3,11 @@ Hi I'm Gurleen Kaur
 A passionate learner and student in first year.
 
 I'm currently learning JavaScript.
+
 I'm looking to collaborate on Open source contributions.
+
 U can reach me on Linkedin - www.linkedin.com/in/gurleen-kaur-a66b49324
+
 2025 Goals- Learning FullStack development and starting DSA in Java.
 
 
